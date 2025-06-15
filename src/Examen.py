@@ -1,7 +1,7 @@
 # Escribe una función llamada buscarPalabra que reciba como argumentos una palabra objetivo (objetivo) y una lista de palabras (palabras).
 # La función debe comprobar si la palabra objetivo está en la lista y devolver un mensaje indicando si fue encontrada o no.
 
-palabra_objetivo = "ola"
+palabra_objetivo = "hola"
 
 lista_de_palabras = ["hola", "como", "cuando", "porque", "quizas", "adios"]
 
